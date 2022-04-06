@@ -1,0 +1,33 @@
+id: P798ACACA
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG6288
+  instance_id: http://purl.bdrc.io/resource/IE1KG6288
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - ཞོལ་ཁང་བསོད་ནམས་དར་རྒྱས་ཀྱི་གསུང་རྩོམ་ཕྱོགས་བསྒྲིགས།
+  alt_title:
+    en-x-mixed:
+    - Źol-khaṅ Bsod-nams-dar-rgyas kyi gsuṅ rtsom phyogs bsgrigs.
+    zh-hans:
+    - 歌舞的海洋
+  author: http://purl.bdrc.io/resource/P6864
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessFairUse
+  restrictedInChina: false
+  volumes:
+    87c1142a48a5448685b74ede8b1e07b7:
+      title: པོད ༡་ཞོལ་ཁང་བསོད་ནམས་དར་རྒྱས་ཀྱི་གསུང་རྩོམ་ཕྱོགས་བསྒྲིགས།
+      volume_number: 1
+      base_file: UT1KG6288_I1KG6313_0000.txt
+      reference: http://purl.bdrc.io/resource/VL624D9AE913E0FDEE
+      image_group: I1KG6313
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW1KG6288
+  - http://purl.bdrc.io/resource/W1KG6288
+  ocr_software: Namsel
+created_at: '2021-12-22T10:58:56.842165'
+last_modified_at: '2021-12-22T10:58:56.842172'
